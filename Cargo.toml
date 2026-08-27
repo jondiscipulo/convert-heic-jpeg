@@ -1,0 +1,11 @@
+[package]
+name = "convert-heic-jpeg"
+version = "0.1.0"
+edition = "2024"
+description = "CLI that converts .HEIC/.HEIF images to .JPG"
+
+[dependencies]
+clap = { version = "4.5", features = ["derive"] }
+heif-oxide = "0.1.0"
+image = { version = "0.25", default-features = false, features = ["jpeg"] }
+thiserror = "2"
