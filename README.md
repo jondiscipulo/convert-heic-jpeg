@@ -2,7 +2,7 @@
 
 **Convert HEIC to JPEG**
  
-This is part of an ongoing media module toolchain project. For concerns, contact hello@donjon.com.ph.
+This is part of an ongoing media module toolchain project. Contact jondiscipulo@proton.me for any related concerns.
 
 
 ## convert-heic-jpeg 0.1.0
